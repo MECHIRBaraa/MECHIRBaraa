@@ -77,7 +77,7 @@ Image processing and object detection using OpenCV and Python.
 
 ## 📫 Contact Me
 
-- 📧 Email: baraamechir@gmail.com
+- 📧 Email: mechirbaraa@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/baraa-mechir
 - 🧑‍💻 GitHub: https://github.com/MECHIRBaraa
 
